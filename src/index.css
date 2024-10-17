@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Montserrat";
+}
+.dropdown-item-text {
+  cursor: pointer;
+}
+
+.dropdown-item-text:hover {
+  background-color: #a2b0bd;
+  color: white;
+}
